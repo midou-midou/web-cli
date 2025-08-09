@@ -1,0 +1,27 @@
+{
+  "name": "@midou-midou/web-cli",
+  "version": "1.0.0",
+  "description": "web前端脚手架",
+  "bin": {
+    "web-cli": "bin/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "v4",
+    "commander": "^10.0.1",
+    "execa": "v5",
+    "fs-extra": "^11.3.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.0.0",
+    "ora": "v3",
+    "semver": "^7.7.2",
+    "validate-npm-package-name": "v5"
+  },
+  "volta": {
+    "node": "14.17.0"
+  },
+  "engines": {
+    "node": ">= 14.17.0"
+  }
+}
