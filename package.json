@@ -1,5 +1,5 @@
 {
-  "name": "@midou-midou/web-cli",
+  "name": "@midoumidou/web-cli",
   "version": "1.0.0",
   "description": "web前端脚手架",
   "bin": {
