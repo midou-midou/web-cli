@@ -5,7 +5,7 @@
   "bin": {
     "web-cli": "bin/index.js"
   },
-  "author": "",
+  "author": "midou-midou",
   "license": "MIT",
   "dependencies": {
     "chalk": "v4",
@@ -17,6 +17,9 @@
     "ora": "v3",
     "semver": "^7.7.2",
     "validate-npm-package-name": "v5"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "volta": {
     "node": "14.17.0"
