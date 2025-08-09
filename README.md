@@ -10,11 +10,11 @@ node版本 >= 14.17.0
 
 #### 使用包管理器安装
 ```sh
-npm install -g @midou-midou/web-cli
+npm install -g @midoumidou/web-cli
 
-yarn global add @midou-midou/web-cli
+yarn global add @midoumidou/web-cli
 
-pnpm add -g @midou-midou/web-cli
+pnpm add -g @midoumidou/web-cli
 ```
 
 ## 使用
