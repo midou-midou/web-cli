@@ -30,7 +30,7 @@ class WebCli {
       new Help()
     ]
     program
-      .name(pkgj.name)
+      .name('web-cli')
       .version(pkgj.version, '-V, --version', '显示版本号')
       .usage('<子命令>')
       .option('-h, --help', '显示帮助信息')

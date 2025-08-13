@@ -17,6 +17,11 @@ yarn global add @midoumidou/web-cli
 pnpm add -g @midoumidou/web-cli
 ```
 
+#### volta
+```sh
+volta install @midoumidou/web-cli
+```
+
 ## 使用
 在终端使用命令：`web-cli`
 
